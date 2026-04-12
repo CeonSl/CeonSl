@@ -15,6 +15,9 @@ Ingeniero de Sistemas con más de 2 años y medio de experiencia enfocado en la 
 * **IA & Datos:** Arquitecturas RAG, Modelos de IA.
 * **CI/CD:** Pipelines con GitHub Actions.
 
+### ⭐ Mis Estadísticas
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ceonsl?cardType=github&theme=github-dark&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
+
 ### 🛠️ Stack Tecnológico General
 *Herramientas y lenguajes con los que trabajo habitualmente.*
 
